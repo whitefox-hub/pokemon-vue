@@ -6,4 +6,4 @@
         npm install
 
     #Comando para ejecutar el proyecto:
-        npm run serve
+        npm run dev
