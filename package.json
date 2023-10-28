@@ -1,0 +1,30 @@
+{
+  "name": "pokemon_vue",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
+    "@vue/compiler-sfc": "^3.3.7",
+    "autoprefixer": "^10.4.16",
+    "axios": "^1.6.0",
+    "core-js": "^3.6.5",
+    "lodash": "^4.17.21",
+    "sass-loader": "^13.3.2",
+    "vue": "^3.0.0",
+    "vue-sweetalert2": "^5.0.5",
+    "vue3-easy-data-table": "^1.5.47"
+  },
+  "devDependencies": {
+    "sass": "^1.66.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
